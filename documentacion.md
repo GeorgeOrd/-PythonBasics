@@ -1,0 +1,1 @@
+Codigo para realizar una piramide

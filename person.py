@@ -1,0 +1,1 @@
+print("Hola esto sera una clase llamada PERSONA")
